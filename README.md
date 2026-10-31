@@ -21,27 +21,17 @@ Projects range from simple demonstrations to more advanced, multi-step automatio
 
 The technologies used may vary depending on the requirements of each project.
 
-+-------------------+----------------------------------------------+
-| Technology        | Purpose                                      |
-+-------------------+----------------------------------------------+
-| n8n               | Workflow automation and orchestration        |
-+-------------------+----------------------------------------------+
-| Docker            | Containerized application deployment         |
-+-------------------+----------------------------------------------+
-| JavaScript        | Custom workflow logic and data processing    |
-+-------------------+----------------------------------------------+
-| Python            | Scripting and advanced automation            |
-+-------------------+----------------------------------------------+
-| AI Models         | AI-powered content generation and processing |
-+-------------------+----------------------------------------------+
-| REST APIs         | Integration with external platforms          |
-+-------------------+----------------------------------------------+
-| Google Sheets API | Data storage, tracking, and management       |
-+-------------------+----------------------------------------------+
-| Google Drive API  | File storage and retrieval                   |
-+-------------------+----------------------------------------------+
-| Git & GitHub      | Version control and project documentation    |
-+-------------------+----------------------------------------------+
+| Technology | Purpose |
+| --- | --- |
+| n8n | Workflow automation and orchestration |
+| Docker | Containerized application deployment |
+| JavaScript | Custom workflow logic and data processing |
+| Python | Scripting and advanced automation |
+| AI Models | AI-powered content generation and processing |
+| REST APIs | Integration with external platforms |
+| Google Sheets API | Data storage, tracking, and management |
+| Google Drive API | File storage and retrieval |
+| Git & GitHub | Version control and project documentation |
 
 ## Automation Projects
 
